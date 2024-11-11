@@ -1,6 +1,4 @@
 ---
-# and here is the content
 title: Welcome to my blog
-
 ---
-
+# and here the content
